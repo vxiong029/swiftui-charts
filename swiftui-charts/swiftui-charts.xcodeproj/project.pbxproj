@@ -37,7 +37,7 @@
 		672DF3232AFDC6AF0097FD67 = {
 			isa = PBXGroup;
 			children = (
-				672DF32E2AFDC6AF0097FD67 /* swiftui-charts */,
+				672DF32E2AFDC6AF0097FD67 /* Chart */,
 				672DF32D2AFDC6AF0097FD67 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,7 +50,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		672DF32E2AFDC6AF0097FD67 /* swiftui-charts */ = {
+		672DF32E2AFDC6AF0097FD67 /* Chart */ = {
 			isa = PBXGroup;
 			children = (
 				672DF32F2AFDC6AF0097FD67 /* ChartApp.swift */,
@@ -59,7 +59,7 @@
 				672DF3332AFDC6B00097FD67 /* Assets.xcassets */,
 				672DF3352AFDC6B00097FD67 /* Preview Content */,
 			);
-			path = "swiftui-charts";
+			path = Chart;
 			sourceTree = "<group>";
 		};
 		672DF3352AFDC6B00097FD67 /* Preview Content */ = {
